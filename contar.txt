@@ -2,4 +2,9 @@ main()
 {
 cout<<"Hola Mundo";
 cout<<"Repositorio Git";
+
+}
+funcion suma(int a, int b)
+{
+return(a+b);
 }
